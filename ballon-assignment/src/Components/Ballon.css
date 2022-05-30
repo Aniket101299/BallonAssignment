@@ -1,0 +1,126 @@
+.shadow-box{
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+    height: 700px;
+    width: 100%;
+    margin-left: 20%;
+    display: flex;
+    padding: 10px;
+}
+.shadow-box > div{
+    height:100%;
+    width:50%;
+    padding: 10px;
+}
+.main-empty-div{
+    display: flex;
+    margin: 2px;
+    padding: 1px;
+}
+.sqaure-div{
+    height: 30Vh;
+    width: 30Vw;
+    border: 1px solid orange;
+    position: relative;
+    margin-top:350px;
+    margin-left: 0px;;
+}
+.sqaure-div-append-ballon{
+    height: 35Vh;
+    width: 35Vw;
+    border: 1px solid orange;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.main-ballon-div > div{
+   height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   margin: auto;
+   margin-bottom: 20px;
+   margin-top:20px;
+
+}
+.main-ballon-div-1{
+    height: 100px;
+   width: 100px;
+   border-radius: 50%;
+   margin: auto;
+   margin-bottom: 20px;
+   margin-top:20px; 
+   
+}
+
+.Ballon-one{
+    background-color: red;
+}
+.Ballon-two{
+    background-color:blue;
+}
+.Ballon-three{
+    background-color:green;
+}
+.Ballon-four{
+    background-color: pink;
+}
+.Ballon-five{
+    background-color: orange;
+}
+
+.inside-input-button-div{
+    margin: auto;
+    margin-top: 300px;
+}
+
+.inside-input-button-div>.ib {
+    width: 50px
+}
+
+.div-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: teal;
+}
+
+.div-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: gray;
+}
+
+.div-3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: purple;
+}
+
+.div-4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: yellow;
+}
+
+.div-5 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 15px;
+    background-color: black;
+}
+
+.main-div {
+    display: flex;
+    gap: 100px;
+}
+
+.main-div-2 {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    height: 120px; 
+}
